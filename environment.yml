@@ -1,0 +1,19 @@
+# Conda environment for the bat virome pipeline.
+name: bat-virome
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - bbmap
+  - megahit
+  - spades
+  - seqtk
+  - seqkit
+  - cd-hit
+  - diamond
+  - blast
+  - bowtie2
+  - samtools
+  - taxonkit
+  - python>=3.9
+  - pandas

@@ -1,0 +1,20 @@
+# Never commit sequencing data or large results
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.fasta
+*.fa
+*.bam
+*.sam
+*.bt2
+*.daa
+*.rma
+*.dmnd
+*.tsv
+*.idxstats.txt
+
+# Local/private files
+.DS_Store
+*.log
+
+desktop.ini

@@ -1,0 +1,4 @@
+# One sample name per line. Reads must be named <sample>_R1.fastq.gz and <sample>_R2.fastq.gz
+sample_01
+sample_02
+sample_03
